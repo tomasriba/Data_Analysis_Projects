@@ -10,14 +10,15 @@ An interactive Power BI dashboard analyzing survey data from 630 participants fr
 ![Dashboard Overview](Dashboard_Overview.png)
 
 
-## 🧠 **About This Project**
+## **About This Project**
 - Built using Power BI Desktop  
 - Data source: Embedded Excel dataset 
 - Techniques: Power Query, DAX, data modeling
 
 
-## ⚠️ **Attribution Notice**
+## **Attribution Notice**
 This dashboard is based on educational material provided by Alex The Analyst 
+
 
 
 
