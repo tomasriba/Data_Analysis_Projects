@@ -1,7 +1,7 @@
 # Power BI Professional Survey Dashboard
 
 ## 📊 **Overview**
-Interactive Power BI dashboard analyzing survey data. Developed as part of a learning project and adapted for portfolio demonstration.
+An interactive Power BI dashboard analyzing survey data from 630 participants from different countries, educational backgrounds, and programming languages.
 
 ---
 
@@ -13,13 +13,13 @@ Interactive Power BI dashboard analyzing survey data. Developed as part of a lea
 
 ## 🧠 **About This Project**
 - Built using Power BI Desktop  
-- Data source: Embedded Excel dataset (Import mode)  
-- Techniques: Power Query, DAX, data modeling  
-- Developed for educational purposes
+- Data source: Embedded Excel dataset 
+- Techniques: Power Query, DAX, data modeling
 
 ---
 
 ## ⚠️ **Attribution Notice**
 This dashboard is based on educational material provided by Alex The Analyst 
+
 
 
