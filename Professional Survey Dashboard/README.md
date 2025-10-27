@@ -1,10 +1,11 @@
-# Power BI Final Project Dashboard
+# Power BI Professional Survey Dashboard
 
 📊 **Overview**
 Interactive Power BI dashboard analyzing survey data. Developed as part of a learning project and adapted for portfolio demonstration.
 
 ## 🖼️ **Dashboard Preview**
 
+![Dashboard Overview](Dashboard_Overview.png)
 
 ---
 
@@ -18,3 +19,4 @@ Interactive Power BI dashboard analyzing survey data. Developed as part of a lea
 
 ## ⚠️ **Attribution Notice**
 This dashboard is based on educational material provided by Alex The Analyst 
+
