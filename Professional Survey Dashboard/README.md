@@ -1,5 +1,4 @@
 # Power BI Professional Survey Dashboard
----
 
 ## 📊 **Overview**
 An interactive Power BI dashboard analyzing survey data from 630 participants from different countries, educational backgrounds, and programming languages.
@@ -18,6 +17,7 @@ An interactive Power BI dashboard analyzing survey data from 630 participants fr
 
 ## **Attribution Notice**
 This dashboard is based on educational material provided by Alex The Analyst 
+
 
 
 
