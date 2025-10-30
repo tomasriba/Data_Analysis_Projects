@@ -10,7 +10,7 @@ Built using SQL Server for data processing and Power BI for visualization.
 
 Database Overview: 
 
-![DatabaseOverview](screenshots/DatabaseOverview.png)
+![Database Overview](Screenshots/DatabaseOverview.png)
 
 Correlation Explorer – Key drivers of price (surface, rooms, distance, amenities)
 
