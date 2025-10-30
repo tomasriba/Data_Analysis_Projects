@@ -22,15 +22,15 @@ Insights – Summary of findings and price elasticity visualization
 
 ## 💡 Insights
 
-`- Prices drop sharply as the distance to the city center increases.
+' - Prices drop sharply as the distance to the city center increases.
 
-`- Surface and number of rooms are the strongest positive drivers.
+' - Surface and number of rooms are the strongest positive drivers.
 
-`- Buildings closer to city center are older.
+' - Buildings closer to city center are older.
 
-`- Central small flats show the highest price per m² premiums.
+' - Central small flats show the highest price per m² premiums.
 
-`- Lift has higher impact on price than Parking or Pool.
+' - Lift has higher impact on price than Parking or Pool.
 
 
 ## ⚙️ Tools Used
