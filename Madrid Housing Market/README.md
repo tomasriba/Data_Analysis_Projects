@@ -1,4 +1,4 @@
-🏙️ # Madrid Housing Market Analysis
+# 🏙️ Madrid Housing Market Analysis
 
 Interactive analysis of over 75,000 housing assets in Madrid, focused on uncovering the relationships between price, location, and property characteristics.
 Built using SQL Server for data processing and Power BI for visualization.
@@ -7,7 +7,7 @@ Built using SQL Server for data processing and Power BI for visualization.
 
 ---
 
-📊 ## Dashboard Pages
+## 📊 Dashboard Pages
 
 Database Overview: 
 
@@ -17,7 +17,7 @@ Insights – Summary of findings and price elasticity visualization
 
 ---
 
-💡 ## Main Insights
+## 💡 Insights
 
 Prices drop sharply as the distance to the city center increases.
 
@@ -31,7 +31,7 @@ Lift has higher impact on price than Parking or Pool.
 
 ---
 
-⚙️ ## Tools Used
+## ⚙️ Tools Used
 
 SQL Server (SSMS): Data cleaning, deduplication, and mapping.
 
